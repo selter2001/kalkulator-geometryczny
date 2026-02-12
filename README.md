@@ -1,4 +1,4 @@
-# Kalkulator Geometryczny
+# geometry-viz-cli
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat&logo=python&logoColor=white)
@@ -39,8 +39,8 @@ A command-line geometry calculator with matplotlib visualization. Computes area,
 ### Installation
 
 ```bash
-git clone https://github.com/selter2001/kalkulator-geometryczny.git
-cd kalkulator-geometryczny
+git clone https://github.com/selter2001/geometry-viz-cli.git
+cd geometry-viz-cli
 pip install matplotlib numpy
 ```
 
@@ -72,7 +72,7 @@ python3 -m pytest
 The application is built around a single class, `KalkulatorGeometryczny`, in one file:
 
 ```
-kalkulator-geometryczny/
+geometry-viz-cli/
 ├── kalkulator_geometryczny.py   # Main application -- logic, UI, visualization
 ├── tests/                       # Unit tests
 └── README.md
@@ -90,7 +90,7 @@ This project is licensed under the MIT License.
 
 ---
 
-# Kalkulator Geometryczny
+# geometry-viz-cli
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Wizualizacja-11557C?style=flat&logo=python&logoColor=white)
@@ -131,8 +131,8 @@ Konsolowy kalkulator geometryczny z wizualizacją matplotlib. Oblicza pole, obw�
 ### Instalacja
 
 ```bash
-git clone https://github.com/selter2001/kalkulator-geometryczny.git
-cd kalkulator-geometryczny
+git clone https://github.com/selter2001/geometry-viz-cli.git
+cd geometry-viz-cli
 pip install matplotlib numpy
 ```
 
@@ -164,7 +164,7 @@ python3 -m pytest
 Aplikacja opiera się na pojedynczej klasie `KalkulatorGeometryczny` w jednym pliku:
 
 ```
-kalkulator-geometryczny/
+geometry-viz-cli/
 ├── kalkulator_geometryczny.py   # Główna aplikacja -- logika, UI i wizualizacja
 ├── tests/                       # Testy jednostkowe
 └── README.md
