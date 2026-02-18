@@ -8,6 +8,40 @@
 
 A command-line geometry calculator with matplotlib visualization. Computes area, perimeter, volume, and surface area for 11 geometric shapes (6 two-dimensional and 5 three-dimensional) and renders them graphically.
 
+## Screenshots
+
+### Main Menu
+
+<p align="center">
+  <img src="screenshots/01_main_menu.png" width="520" alt="Main Menu — Shape Selection">
+</p>
+
+<p align="center">
+  <sub>Interactive CLI menu with 6 flat shapes, 5 spatial shapes, and calculation history</sub>
+</p>
+
+### 2D Visualization — Square
+
+<p align="center">
+  <img src="screenshots/02_square_2d_visualization.png" width="780" alt="Square — 2D Matplotlib Plot">
+</p>
+
+<p align="center">
+  <sub>Square calculation (side = 2) with area, perimeter, and matplotlib 2D plot</sub>
+</p>
+
+### 3D Visualization — Cube
+
+<p align="center">
+  <img src="screenshots/03_cube_3d_visualization.png" width="780" alt="Cube — 3D Matplotlib Render">
+</p>
+
+<p align="center">
+  <sub>Cube calculation (side = 14) with volume, surface area, and interactive 3D render via mplot3d</sub>
+</p>
+
+---
+
 ## Features
 
 - **11 geometric shapes** -- 6 flat and 5 spatial figures
@@ -100,6 +134,40 @@ This project is licensed under the MIT License.
 
 Konsolowy kalkulator geometryczny z wizualizacją matplotlib. Oblicza pole, obwód, objętość i pole powierzchni dla 11 figur geometrycznych (6 płaskich i 5 przestrzennych) oraz renderuje je graficznie.
 
+## Zrzuty ekranu
+
+### Menu główne
+
+<p align="center">
+  <img src="screenshots/01_main_menu.png" width="520" alt="Menu główne — Wybór figury">
+</p>
+
+<p align="center">
+  <sub>Interaktywne menu CLI z 6 figurami płaskimi, 5 przestrzennymi i historią obliczeń</sub>
+</p>
+
+### Wizualizacja 2D — Kwadrat
+
+<p align="center">
+  <img src="screenshots/02_square_2d_visualization.png" width="780" alt="Kwadrat — Wykres 2D matplotlib">
+</p>
+
+<p align="center">
+  <sub>Obliczenie kwadratu (bok = 2) z polem, obwodem i wykresem 2D matplotlib</sub>
+</p>
+
+### Wizualizacja 3D — Sześcian
+
+<p align="center">
+  <img src="screenshots/03_cube_3d_visualization.png" width="780" alt="Sześcian — Render 3D matplotlib">
+</p>
+
+<p align="center">
+  <sub>Obliczenie sześcianu (bok = 14) z objętością, polem powierzchni i interaktywnym renderem 3D mplot3d</sub>
+</p>
+
+---
+
 ## Funkcjonalności
 
 - **11 figur geometrycznych** -- 6 płaskich i 5 przestrzennych
@@ -177,4 +245,5 @@ Klasa zawiera obsługę menu, walidację danych, obliczenia, historię i renderi
 **Wojciech Olszak** -- [github.com/selter2001](https://github.com/selter2001)
 
 ## Licencja
+
 Projekt jest objęty licencją MIT.
